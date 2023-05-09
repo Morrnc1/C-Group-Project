@@ -6,7 +6,8 @@ namespace Nick_Is_Our_Leader
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("My name is Mahdi");
+            Console.ReadLine();
         }
     }
 }
